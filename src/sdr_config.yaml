@@ -1,0 +1,57 @@
+frequencies:
+  144.5:
+    archetype: "Hero"
+    state: "Courage"
+    waveform: "sine"
+  145.25:
+    archetype: "Shadow"
+    state: "Fear"
+    waveform: "square"
+  146.8:
+    archetype: "Anima/Animus"
+    state: "Emotional Balance"
+    waveform: "triangle"
+  148.3:
+    archetype: "Sage"
+    state: "Insight and Wisdom"
+    waveform: "sine"
+  149.7:
+    archetype: "Trickster"
+    state: "Disruption and Creativity"
+    waveform: "square"
+  433.92:
+    archetype: "Dreamwalker"
+    state: "Lucid Dreaming"
+    waveform: "triangle"
+  440.0:
+    archetype: "Resonance Center"
+    state: "Harmony and Alignment"
+    waveform: "sine"
+  445.5:
+    archetype: "Visionary"
+    state: "Future Orientation"
+    waveform: "triangle"
+  448.8:
+    archetype: "Caregiver"
+    state: "Nurturing and Empathy"
+    waveform: "square"
+  452.0:
+    archetype: "Warrior Spirit"
+    state: "Discipline and Focus"
+    waveform: "sine"
+  457.5:
+    archetype: "Threshold"
+    state: "Liminal Transition"
+    waveform: "triangle"
+  460.2:
+    archetype: "Seeker"
+    state: "Curiosity and Exploration"
+    waveform: "square"
+  465.0:
+    archetype: "Catalyst"
+    state: "Change and Transformation"
+    waveform: "sine"
+  470.0:
+    archetype: "Oracle"
+    state: "Insight and Prophecy"
+    waveform: "triangle"
